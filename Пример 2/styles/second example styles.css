@@ -1,6 +1,6 @@
 .headerSection{
     background: url(../pics/green_wave_waves_abstract_simple.jpg) no-repeat center;
-    /* padding: 200px 0; */
+  
     text-align: center;
   }
   
@@ -73,11 +73,7 @@
   .advTexts {
     width: calc(100% - 151px);
   }
-  
-  /* .advTexts .text {
-    font-size: 1.25em;
-  } */
-  
+    
   .advRange img {
     vertical-align: middle;
   }
@@ -123,9 +119,7 @@
     position: relative;
     z-index: 2;
   }
-  
-  
-  
+    
   @media screen and (max-width: 992px) {
     .advItem {
       width: calc(100% / 1 - var(--offset) * 2);
@@ -215,5 +209,3 @@
     vertical-align: middle
   
   }
-  
-  

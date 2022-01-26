@@ -1,10 +1,10 @@
 :root {
-    --green: #1D9D73; /*Это переменная называется*/
+    --green: #1D9D73;
     --offset: 15px;
 }
 
 html {
-    font-size: 10px; /*base multiplication value*/
+    font-size: 10px;
 }
 
 body {
@@ -48,16 +48,10 @@ p {
     margin: 0 16px;
 }
 
-/* etc */
 .content-text ul {
     list-style-type: disc;
     padding-left: 50px;
 }
-
-/* .content-text li {
-    list-style-type: disc;
-    padding-left: 50px;
-} */
 
 .container {
     max-width: 1170px;
